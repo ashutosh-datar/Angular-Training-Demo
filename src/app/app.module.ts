@@ -80,8 +80,7 @@ const MaterialModules = [
 @NgModule({
   declarations: [
     AppComponent,
-    LoginComponent,
-    AdminComponent
+    LoginComponent
   ],
   imports: [
     BrowserModule,
